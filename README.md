@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20[Your%20Name]&fontSize=48&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20[Rahsya]&fontSize=48&animation=fadeIn&fontAlignY=38" alt="header" />
 </div>
 
 <!-- Teks mengetik -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Developer+%F0%9F%92%BB;Coffee+Lover+%E2%98%95;Learning+Git+%26+GitHub+%F0%9F%9A%80;Building+my+first+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student%F0%9F%92%BB;Coffee+Lover+%E2%98%95;Learning+Git+%26+GitHub+%F0%9F%9A%80;Building+my+first+projects" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,9 +15,6 @@
 </div>
 
 ---
-# Hi, I'm Rahsya 👋
-
-**[Software Engineering Student| Coffee & matcha Lover ☕]**
 
 ### 🙋 About Me
 
