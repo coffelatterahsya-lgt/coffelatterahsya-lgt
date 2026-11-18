@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20[Rahsya]&fontSize=48&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20Rahsya&fontSize=48&animation=fadeIn&fontAlignY=38" alt="header" />
 </div>
 
 <!-- Teks mengetik -->
