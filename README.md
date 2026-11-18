@@ -1,8 +1,13 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20[Your%20Name]&fontSize=48&animation=fadeIn&fontAlignY=38" alt="header" />
+</div>
 
-# Hi, I'm Rahsya 👋
+<!-- Teks mengetik -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Developer+%F0%9F%92%BB;Coffee+Lover+%E2%98%95;Learning+Git+%26+GitHub+%F0%9F%9A%80;Building+my+first+projects" alt="Typing SVG" />
+</div>
 
-**[Software Engineering Student| Coffee & matcha Lover ☕]**
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=coffelatterahsya-lgt&color=blueviolet&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/coffelatterahsya-lgt?style=flat-square&logo=github)
@@ -10,6 +15,9 @@
 </div>
 
 ---
+# Hi, I'm Rahsya 👋
+
+**[Software Engineering Student| Coffee & matcha Lover ☕]**
 
 ### 🙋 About Me
 
@@ -34,6 +42,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffelatterahsya-lgt&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coffelatterahsya-lgt&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coffelatterahsya-lgt/coffelatterahsya-lgt/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/coffelatterahsya-lgt/coffelatterahsya-lgt/output/github-snake.svg" />
+</picture>
+
 ### 📌 Featured Projects
 
 | Project | Description |
@@ -49,7 +66,5 @@
 ---
 
 <div align="center">
-
-☕ *Built with coffee and curiosity.*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" />
 </div>
